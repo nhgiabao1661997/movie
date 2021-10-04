@@ -74,7 +74,7 @@ const updateUser = async (req,res) => {
 
     }
     
-}; // 2 đứa thấy rồi này :v 
+};
 
 module.exports={
     getListUser, 
